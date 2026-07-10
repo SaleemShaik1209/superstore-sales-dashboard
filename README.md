@@ -25,6 +25,10 @@ SQL · Excel · Power BI
 ![Dashboard](Power%20BI%20Dashboard%20photo.png)
 
 ## Files
-- `report.pdf` — full written analysis
-- `presentation.pptx` — stakeholder presentation
-- `dashboard.pbix` — Power BI file
+## Files
+- `Report For Project.docx` — full written analysis
+- `Superstore_Sales_Dashboard.pbix` — Power BI file
+- `Superstore_Sales_Analysis.xlsx` — Excel analysis
+- `Superstore_SQL_Analysis.sql` — SQL queries
+- `SampleSuperstore.csv` — raw dataset
+- `Excel Dasboard.png` — Excel dashboard screenshot
