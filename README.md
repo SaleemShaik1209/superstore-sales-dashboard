@@ -22,7 +22,7 @@ SQL · Excel · Power BI
 - High discounts on select products were eroding profit margins
 
 ## Dashboard Preview
-![Dashboard](Power BI Dashboard photo.png)
+![Dashboard](Power%20BI%20Dashboard%20photo.png)
 
 ## Files
 - `report.pdf` — full written analysis
