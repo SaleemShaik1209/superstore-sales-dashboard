@@ -25,7 +25,6 @@ SQL · Excel · Power BI
 ![Dashboard](Power%20BI%20Dashboard%20photo.png)
 
 ## Files
-## Files
 - `Report For Project.docx` — full written analysis
 - `Superstore_Sales_Dashboard.pbix` — Power BI file
 - `Superstore_Sales_Analysis.xlsx` — Excel analysis
